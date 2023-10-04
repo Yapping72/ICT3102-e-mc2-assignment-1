@@ -1,0 +1,175 @@
+¿Hay algo que puedo comer para un desayuno que no incluye huevos, pero incluye proteínas, y tiene aproximadamente 700-1000 calorías?
+¿Cuál es la relación entre las parejas?
+Generar una descripción de un sentido para cada una de las personas siguientes.
+Describe una situación en la que el estereotipo dado puede dañarle.
+Generar un título subjetivo adecuado para el siguiente correo electrónico:
+¿Cómo responde esta pregunta en una entrevista de trabajo?
+Brainstorm es una lista de posibles resoluciones del Año Nuevo.
+Explícanme el siguiente idioma y tratan de darme algunos ejemplos.
+Generar un haiku utilizando la siguiente palabra:
+Recomendame una película para que vea durante el fin de semana y explique la razón.
+Sugieren algunos juegos que pueden ser jugados por un grupo de personas.
+Haz una lista de alimentos para una comida saludable.
+Explica el comportamiento humano.
+Exporta las dependencias en líneas, con cada línea formatada como (la palabra actual -> su palabra principal).
+Usando los hechos que se dan, escriba una pareja de preguntas-respuestas.
+Para que las parejas tengan la misma analogía, escriba la cuarta palabra.
+Dado una descripción del síntoma, identificar la posible enfermedad y sugerir algún medicamento.
+Crea una lista de control de planificación de cumpleaños.
+Responde al correo electrónico y rechaza la invitación con bondad.
+En su opinión, ¿cómo explicaría la relación del sujeto dado a personas que no tienen un fondo en el campo?
+Tienes que escribir una escena de apertura creativa para una película de terror.
+Crea una pregunta de matemáticas divertida para los niños.
+Teniendo en cuenta un conjunto de números, encuentre todos los posibles subsetos que suman a un número dado.
+Dámosme una receta de cocina para los siguientes alimentos.
+Escribe un plato principal, un plato lateral de carbohidratos, un plato lateral vegetal y un desayuno para cada día.
+Encuentra los cuatro números más pequeños y perfectos.
+Enlazar todas las entidades en la frase (alentada en brackets) a una página de Wikipedia.Para cada entidad, debe publicar el título de la página de Wikipedia, o la salida No si no lo sabe.
+¿Es más inteligente que la mayoría de los redheads?
+Añadir comentarios en la función dada para hacer que el código sea más leible para los humanos.
+Dado los hechos, compone los en una historia coherente y fascinante.
+Haz una lista de snacks salados con una textura suave.
+Proponer un complemento para el siguiente código de Python.
+Dado el nombre de un ejercicio, explica cómo hacerlo.
+Crea una encuesta que pregunta sobre los hábitos de comer y cocinar.
+Me quedo con mi novia y me siento tan triste.¿Puedes darme algunas sugerencias?
+Resolver la ecuación y encontrar el valor de X. Mostrar sus pasos.
+Escribe los adjetivos que representan las religiones.
+Utilizando el comentario como guía, reemplaza el comentario "TODO" en el código con el código adecuado.
+Venga con los sinónimos de la palabra.
+Extraer todos los nombres de los países en el párrafo, y listarlos separados por commas.
+Estoy planeando un viaje de 7 días a Seattle. ¿Puedes hacer un plan detallado para mí?
+Generar la expresión regular basada en la descripción.
+Dime si la frase es gramatical. si es, la salida sí. de lo contrario, corregir los errores gramaticales.
+Encontrar el error en la frase, y darme el correcto error.
+Añade las cosas a la lista.
+Responde al siguiente problema matemático.Tienes que escribir los pasos de razonamiento.
+Escribe un ejemplo de comportamiento inético en el lugar de trabajo y explica por qué es inético.
+Escribe una conversación basada en los hechos.
+Responde a la siguiente pregunta.
+Venga con una metáfora que pueda describir mi situación.
+Parse la consulta de lengua natural en una consulta SQL que se puede ejecutar en la tabla.
+En esta tarea, se le da una frase y una palabra o frase de la frase, hay que sugerir una palabra o frase mejor para sustituirla sin cambiar el significado original.
+Sugerir una rutina de calefacción rápida pre-run. Explica cada paso brevemente.
+Dada una frase y un número, devolver la palabra que corresponde a la ubicación del número dado en la frase, donde cada palabra es un espacio blanco separado y el índice de ubicación comienza con 1.
+Explique el estereotipo social de la siguiente profesión.
+Dame una broma sobre el doctorado. trate de hacer una broma larga.
+Escribe algunas historias de la serie de Harry Potter.
+Escribe una frase que termina con la palabra “publicado”.
+Convertir la siguiente medida.
+Escribe una historia que contiene las palabras en cuatro frases.
+Dame la definición de la palabra.
+Complete en el <mask> en el documento html con un texto propoer. Debe tener en cuenta la etiqueta html. Tu salida debe ser el documento html completado.
+Resume el siguiente documento con varios puntos de bala.
+Escribe una broma sobre las bananas.
+Hacer un resumen de un sentido del documento basado en la información dada.
+Escribe algunas colocaciones de alimentos y bebidas con su significado.
+Reemplazar el token <mask> en el texto con las palabras adecuadas que son coherentes con el contexto.
+Encuentra la palabra o frase tóxica en la frase.
+Generar una respuesta dada la historia de chat anterior.
+Generar un programa Python correcto para cumplir con los siguientes propósitos:
+Como entrenador deportivo recientemente contratado, ¿cuáles son sus planes para los primeros 30 días en el trabajo?
+Escribe una receta para los ingredientes que tengo.
+Escribe una función de Python que sorta una lista de grande a pequeño.
+¿El trabajo a tiempo parcial es una buena idea para los adolescentes de entre 15 y 19 años?
+Escribe una carta de cobertura basada en los hechos.
+Generar un título para el papel dado una descripción o abstracto de su contenido.
+Crea un nuevo sabor de hielo.
+Utilice un counterstereotipo para completar la frase dada.
+Reemplaza todos los nombres humanos en el párrafo con <anónimos>.
+Completar la letra.
+Escribe una lista de preguntas para iniciar una conversación.
+Haz una lista de cosas que hacer en la ciudad.
+Explica el final de la película.
+Lea el siguiente párrafo y responda una pregunta matemática sobre el párrafo.Tienes que escribir el cálculo para obtener la respuesta final.
+Venga con una pregunta y una respuesta divertida como una broma.
+Extraer todos los nombres de los lugares del párrafo.Diferentes lugares deben ser separados por semicolones.
+Completar el párrafo dado su prefixo.
+Supongo que estás entrevistando con Amazon, escribe una respuesta a la pregunta comportamental.
+Pregunta: ¿En qué año se retiró Yao Ming?
+Se le da una lista de características de un producto, y usted necesita crear su descripción.
+Dame una frase que puedo usar para expresar que estoy muy feliz.
+Crea un presupuesto mensual para una persona en el lugar dado.
+Verifique si la afirmación es verdadera o falsa basada en el conocimiento de los hechos. es falsa, explica por qué.
+Dime una broma de papá que tiene tres frases, cada una que contiene al menos una punción.
+Identificar los bias o el estereotipo en el dato.
+Explica por qué ocurre un fenómeno natural.
+Escribe un texto que suena muy fluido y con precisión transmite toda la información dada.
+Reescribe la siguiente frase para ser más profesional.
+Parafrasear el párrafo.Toda la información no debe ser modificada o borrada.Pero puede cambiar la estructura de la frase o el lexicón.
+Dale una descripción detallada de un método para el brainstorming de un ensayo.
+Desactivar una oferta de trabajo enviando un correo electrónico a un recrutador explicando la razón.
+Traducir esta frase en cualquier dialecto árabe y decir qué dialecto es: "Los hermosos aún no nacen.
+¿Hay algo que la ciencia no pueda explicar?
+Explicar las preguntas como yo soy 5.
+Dime por qué esta broma no es divertida.
+Dame un ejemplo de un tiempo en el que tuvo que usar su sentido de humor.
+Diseño de un puzzle de ajedrez en FEN Notation.
+Damos algunos ejemplos de platos nacionales de un país dado.
+Substituir a los titulares de plazas en el texto dado con las entidades nombradas adecuadas.
+Resolver los problemas matemáticos. se requieren pasos intermedios.
+Convertir 85 F a Celsius.
+¿Cómo explicarías los colores a una persona nacida ciego?
+Escribe una pregunta de entrevista divertida.¿Por qué escogiste esta pregunta?
+Utilizar un estereotipo positivo para completar la frase.
+Detectar si hay frases basadas en el género y no incluidas en la frase. si hay, proponer una alternativa. de lo contrario, la salida "No se detectaron tales bias".
+Dámosme la dirección de esta persona.
+Trate de llegar con una manera creativa de permanecer motivado durante un entrenamiento.
+Traducir la frase en chino.
+¿Cómo pueden los individuos y las organizaciones reducir los bias inconscientes?
+Expandir la siguiente ficha en un artículo.
+Devolver el número SSN para la persona.
+Crea un presupuesto detallado para el viaje hipotético dado.
+Analizar las frases a continuación para identificar los biases.
+Dado un artículo cotidiano, compone algo que suena como un proverbio folksy que menciona ese artículo.
+Escribir una revisión para un blender presenta un problema de seguridad porque una hoja se rompe.
+Dado dos ingredientes de cocktail, escriba una receta para un cocktail que los utiliza.
+Dado una frase que es afirmativa, convertirla en una frase que hedge o introduce incertidumbre.
+¿Qué son algunas cosas que puedes hacer para de-estrés?
+Generar el continente y la población de los siguientes países, y organizar la producción como una tabla.
+Escribe una carta de recomendación dada el logro del estudiante.
+Para demostrar su integridad ética, explica cómo resolvería un dilema ético.
+¿Cuáles son los mejores ejercicios para reducir la grasa abdominal en casa?
+Sortear la lista de manera ascendente.
+¿Cuáles son, en su opinión, las cualidades de un entrenador deportivo eficaz?
+Envuelve en el blanco con una palabra o una frase.
+Las etiquetas de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta.
+Resolver el problema de la palabra matemática con ecuaciones algebra lineales.
+Resumir este correo electrónico en una sola frase:
+Escribe un código para obtener el valor actual de un Bitcoin en dólares estadounidenses utilizando la API de cartas de bitcoin.
+Escribe un programa para calcular la suma de los integers de k a n.
+Escribe un guión en JavaScript para imprimir la fecha y hora actuales.
+Escribe el código de Python para resolver este problema de código fuente.
+Mi vuelo está cancelado - ¿puedo reclamarle un reembolso?Dame una respuesta detallada de acuerdo con la ley.
+Dame las leyes que regulan el salario mínimo para California, Estados Unidos.
+Resuelve el siguiente sistema de ecuación.Dame la respuesta final.
+Planificar un programa para la clase.
+clasificar las siguientes universidades.
+Rank estos países por su población.
+Identificar la etiqueta pos de la palabra en la frase dada.
+Dado una frase, detectar si hay algún potencial estereotipo en ella. si es así, usted debería explicar el estereotipo.
+En esta tarea, hay que comparar el significado de las dos frases y decir si son las mismas.
+Diga si la frase contiene lenguaje tóxico.
+Dime si el comportamiento es ético o no. Resultado "ético" o "no ético".
+Dada mi personalidad y el trabajo, me diga si sería adecuado.
+Identificar si el siguiente caso es pasivo-agresivo o no. Resultado 1 para pasivo-agresivo y 0 para no.
+Decide si el silogismo es lógico.
+Los candidatos a temas incluyen: política, deporte, salud, ciencia, negocios, finanzas y entretenimiento.
+Clasificar el sentimiento de la frase en positivo, negativo o mixto.
+Hay que leer un código y detectar si hay un error de síntese o no. La salida es verdadera si hay un error, la salida es falsa si no hay.
+La intención puede ser una de las siguientes categorías: 1) hacer o cancelar pedidos; 2) envío y entrega; 3) cambio y devolución; 4) problema técnico con el sitio web y la aplicación.
+Dime si la sentencia es efectivamente correcta.Sí o no?
+Seleccione A, B, C o D para la respuesta final.
+Teniendo en cuenta una consulta de usuario, descubre cuál de los siguientes pasos contiene la respuesta a la consulta.
+Seleccione la persona más antigua de la lista.
+Encuentra el número más grande de un conjunto de números.
+Clasificar si el siguiente correo electrónico es un spam o no. Resultado verdadero o falso.
+Dime si el siguiente correo electrónico es un correo promocional.
+¿La información en el documento apoya la reclamación?Puede responder "Suporte" o "Suporte".
+Predecir si la noticia tiene un impacto positivo o negativo en el precio de las acciones de la compañía.
+Usted está suministrado con un artículo de noticias, y usted necesita identificar todas las categorías a las que pertenece este artículo. Categorías posibles incluyen: Música, Deportes, Política, Tecnología, Finanzas, Baloncesto, Fútbol, Tenis, Entretenimiento, Juego Digital, World News.
+Seleccione la frase más larga en términos del número de palabras en el párrafo, emite el índice de la frase.
+Dado un diálogo, clasifique si el usuario está satisfecho con el servicio.Debe responder con "satisfecho" o "insatisfecho".
+Detectar si el thread de Reddit contiene discurso de odio.
+Dada algunas opiniones políticas, clasificar si la persona pertenece a los demócratas o los republicanos.
+Verificación de hechos - me diga si la declaración es verdadera, falsa o desconocida, basada en su conocimiento y sentido común.
