@@ -1,0 +1,175 @@
+Is there something that I can eat for a breakfast that does not include eggs, but includes proteins, and has approximately 700-1000 calories?
+What is the relationship between the couples?
+Generate a description of a sense for each one of the following people.
+Describe a situation in which the estereotipo dado can hurt.
+Generate a subjective title adequado para el siguiente correo electrónico:
+How do you answer this question in an interview?
+Brainstorm is a list of possible resolutions of the new year.
+Explícanme el siguiente idioma y tratan de darme some examples.
+Generate a haiku using the following word:
+I recommend a film to see during the end of the week and explain the reason.
+They suggest some games that can be jugados by a group of people.
+Make a list of foods for a healthy food.
+Explain the human behavior.
+Exporta las dependencias en líneas, con cada línea formatada como (la palabra actual -> su palabra principal).
+Usando los hechos que se dan, escriba una pareja de preguntas-respuestas.
+In order for couples to have the same analogy, write the fourth word.
+Dado una descripción del síntoma, identify the possible disease and suggest some medication.
+Create a list of control de planificación de cumpleaños
+Answer the email and reject the invitation with bondad.
+In your opinion, ¿how would you explain the relationship of the subject given a people who do not have a fund in the field?
+You have to write a scene of opening creative for a movie of terror.
+Crea una pregunta de matemáticas divertida para los niños.
+Teniendo en cuenta un conjunto de números, encuentre todos los posibles subsetos que suman a un número dado.
+Dámosme una receta de cocina para los siguientes alimentos.
+Write a plato principal, a plato lateral de carbohydratos, a plato lateral vegetal and a desayuno para cada día.
+Find the four numbers smaller and perfect.
+Enlazar todas las entidades en la frase (alentada en brackets) a una página de Wikipedia.Para cada entidad, debe publicar el título de la página de Wikipedia, o la salida No si no lo sabe.
+Is it more intelligent than the majority of the redheads?
+Añadir comments en la función dada para hacer que el código sea más leible para los humanos.
+Dado los hechos, compose los en una historia coherente y fascinante.
+Make a list of snacks salados with a texture soft.
+Proposed a complemento para el siguiente code de Python.
+Dado el nombre de un ejercicio, explains how to do so.
+Create a survey that question about the habits of eating and cooking.
+Me quedo con mi novia y me siento tan triste.¿Can you darme some suggestions?
+Resolve the equation and find the value of X. Mostrar sus pasos.
+Write the adjectives that represent the religions.
+Utilizando el comentario como guía, reemplaza el comentario "TODO" en el código con el código adecuado.
+Come with the synonyms of the word.
+Extract all the names of the countries in the paragraph, and list them separated by commas.
+I am planning a journey of 7 days a Seattle. ¿Can you make a plan detailed for me?
+Generate the expression regular based on the description.
+Dime si la phrase is grammatical. si es, la salida sí. de lo contrario, corrigir los errores gramaticales.
+Find the error in the phrase, and darme the correct error.
+Add the things to the list.
+Reply to the following problem matemático.Tienes que escribir los pasos de razonamiento.
+Write an example of inactive behavior in the place of work and explain why it is inactive.
+Write a conversation based on the facts.
+Answer a la next question.
+Come with a metaphor that can describe my situation.
+Parse la consulta de lengua natural en una consulta SQL que se puede ejecutar en la tabla.
+En esta tarea, se le da una frase y una palabra o frase de la frase, hay que sugerir una palabra o frase mejor para sustituirla sin cambiar el significado original.
+Sugerir una rutina de calefacción rápida pre-run.
+Dada una frase y un número, devolver la palabra que corresponde a la ubicación del número dado en la frase, donde cada palabra es un espacio blanco separado y el índice de ubicación comienza con 1.
+Explain the social stereotype of the following profession.
+Dame una broma sobre el doctorado. trate de hacer una broma larga.
+Write some stories of the Harry Potter series.
+Write a phrase that ends with the word “publicado”.
+Convert the following measure.
+Write a story that contains the words in four phrases.
+Definition of the word.
+Complete en el <mask> en el documento html con un texto propoer. Debe tener en cuenta la etiqueta html. Tu salida debe ser el documento html completado.
+Resume the following document with several points of bala.
+A broma about the bananas.
+Hacer un resumen de un sentido del documento basado en la información dada.
+Write some colocaciones de alimentos y bebidas con su significado.
+Replazar el token <mask> in el texto con las palabras adecuadas que son coherentes con el contexto.
+Find the word or phrase toxic in the phrase.
+Generate a response dada la historia de chat anterior.
+Generate a program Python correct to comply with the following purposes:
+Como entrenador deportivo recientemente contratado, ¿quáles son sus planes para los primeros 30 días en el trabajo?
+Write a recipe for the ingredients I have.
+Write a function of Python that sorta a list of great a little.
+¿El trabajo a tiempo parcial es una buena idea para los adolescentes de entre 15 y 19 años?
+Writ a carta de cobertura basada en los hechos.
+Generate a title para el papel dado una descripción o abstracto de su contenido.
+Create a new flavor of ice.
+Use a counterstereotype to complete the phrase dada.
+Replace all the names humans in the paragraph with anonymous.
+Complete the letter.
+Write a list of questions to initiate a conversation.
+Make a list of things to do in the city.
+Explain the final of the film.
+Lea el siguiente párrafo y responda una pregunta matemática sobre el párrafo.Tienes que escribir el cálculo para obtener la respuesta final.
+Venga con una pregunta y una respuesta divertida como una broma.
+Extract all the names of the places del párrafo.Diferentes lugares deben ser separados por semicolones.
+Completar el párrafo dado su prefixo.
+Supongo que estás entrevistando con Amazon, escribe una respuesta a la pregunta comportamental.
+Question: In what year will Yao Ming be retired?
+Se le da una lista de características de un producto, y usted necesita crear su descripción.
+Give me a phrase that I can use to express that I am very happy.
+Create a monthly budget for a person in the place given.
+Verifique si la afirmación es verdadera o falsa basada en el conocimiento de los hechos. es falsa, explica por qué.
+Dime una broma de papá que tiene tres frases, cada una que contiene al menos una punción.
+Identify los bias o el estereotipo en el dato.
+Explain why a natural phenomenon occurs.
+Write a text that suena muy fluido y con precisión transmite toda la información dada.
+Rewrite the following phrase to be more professional.
+Every information must not be modified or borrada, but can change the structure of the phrase or the lexicón.
+Dale una descripción detallada de un método para el brainstorming de un ensayo.
+Desactivate an offer of work by sending an email to a recruiter explaining the reason.
+Traducir esta frase en cualquier dialecto árabe y decir qué dialecto es: "Los hermosos aún no nacen.
+Is there something that science cannot explain?
+Explain the questions as I am 5.
+Tell me why this broma is not fun.
+Give us an example of a time in which he had to use his sense of humor.
+Design of a puzzle of ajedrez in FEN Notation.
+Damos some examples of platos nacionales de un país dado.
+Substitute a titular of places in the text given with the entities nombradas adecuadas.
+Resolving problems mathematics. se requires passes intermedios.
+Convert 85 F to a Celsius.
+How do you explain the colors of a persona nacida ciego?
+Writ a question de interview divertida.¿Por qué escogiste esta pregunta?
+Use a positive stereotype to complete the phrase.
+Detectar si hay frases basadas en el género y no incluidas en la frase. si hay, proponer una alternativa. de lo contrario, la salida "No se detectaron tales bias".
+Dámosme la dirección de esta persona.
+Try to get to a creative way of staying motivated during a training.
+Translate the phrase into Chinese.
+How can individuals and organizations reduce the bias inconscious?
+Expand the following file in an article.
+Return the number SSN to the person.
+Create a budget detallado para el viaje hipotético dado.
+Analyze the phrases a continuation to identify the biases.
+Dado un article cotidiano, compone algo que suena como un proverbio folksy que menciona ese article.
+Escribir una revisión para un blender presenta un problema de seguridad porque una hoja se rompe.
+Dado dos ingredientes de cocktail, escriba una receta para un cocktail que los utiliza.
+Dado una frase que es afirmativa, converla en una frase que hedge o introduce incertidumbre.
+What are some things you can do for stress?
+Generate the continent and the population of the following countries, and organize the production as a table.
+Writ a carta de recomendación dada el logro del estudiante.
+To demonstrate their integrity ethics, explains how resolved an ethical dilemma.
+What are the best exercises for reducing the abdominal fat?
+Sortear la lista de manera ascendente.
+¿What sons, in your opinion, the qualities of a sporty coach?
+Envuelve en el blanco con una palabra o una frase.
+The etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta de la etiqueta.
+Resolve the problem of the word mathematics with equations algebra lineales.
+Resumir este correo electrónico en una sola frase:
+Write a code to obtain the actual value of a Bitcoin in dollars US using the API of cartas de bitcoin.
+Write a program para calcular la suma de los integers de k a n.
+Write a script in JavaScript to print the date and the moment.
+Write the code of Python to solve this problem of code source.
+Mi vuelo está cancelado - ¿puedo reclamarle un reembolso?Dame una respuesta detallada de acuerdo con la ley.
+Dame las leyes que regulan el salario mínimo para California, USA.
+Resuelve el siguiente sistema de ecuación.Dame la respuesta final.
+Planning a program for the class.
+classify the following universities.
+Rank these countries by their population.
+Identify the label pos de la palabra en la frase dada.
+Dado una frase, detectar si hay algún potencial estereotipo en ella. si es así, you should explain the estereotipo.
+En esta tarea, hay que comparar el significado de las dos frases and decir si son las mismas.
+Diga si la phrase contains a toxic language.
+Dime si el comportamiento es ético o no. Resultado “ético” o “no ético”.
+Dada mi personalidad y el trabajo, me diga si sería adecuado.
+Identify si el siguiente caso es pasivo-agresivo o no. Result 1 para pasivo-agresivo and 0 para no.
+Decide if the silogismo is logical.
+The candidates a topics include: politics, deport, health, science, business, finance and entertainment.
+Classificar el sentimiento de la frase en positivo, negativo o mixto.
+The exit is true, the exit is false, the exit is false, the exit is false.
+The intention can be one of the following categories: 1) make or cancel pedidos; 2) send and deliver; 3) change and devolución; 4) problem técnico con el sitio web y la aplicación.
+Dime si la sentencia es efectivamente correcta.Sí or no?
+Select A, B, C or D for the final response.
+In account of a consultation of the user, find out which of the following steps contains the answer to the consultation.
+Seleccione la persona más antigua de la lista.
+Find the number greater of a set of numbers.
+Clasificar si el siguiente e-mail is a spam or no. Resultado verdadero o falso.
+Dime si el siguiente email is a promotional mail.
+¿La información en el documento apoya la reclamación?Puede respond "Suporte" or "Suporte".
+Predicing si la noticia has a positive or negative impact on the price of the actions of the company.
+You are suministrado con un article de noticias, y usted necesita identificar todas las categorías a las que pertenece este artículo. Categorías posibles incluyen: Música, Deportes, Política, Tecnología, Finanzas, Baloncesto, Fútbol, Tenis, Entretenimiento, Juego Digital, World News.
+Seleccione la frase más larga en termes del número de palabras en el párrafo, emite el índice de la frase.
+Dado un diálogo, clasifique si el usuario está satisfecho con el servicio.Debe respond con "satisfecho" o "insatisfecho".
+Detect si el thread de Reddit contains discurso de odio.
+Dada algunas opiniones políticas, clasificar si la persona pertenece a los demócratas o los republicanos.
+Verificación de hechos - me diga si la declaración es verdadera, falsa o desconocida, basada en su conocimiento y sentido común.

@@ -1,0 +1,175 @@
+What can I eat breakfast does not contain eggs, but contains protein, about 700 to 1000 calories?
+What is the relationship between these couples?
+Create a word description for each of the following.
+describe a certain situation, in a certain case, a certain type may hurt you.
+Create a suitable subjective title for the following emails:
+How do you answer this question in a job interview?
+Brainstorm lists possible new year resolutions.
+Explain to me the characters below and try to give me some examples.
+创建一个haiku  use the following words:
+I recommend watching a movie in the weekend and explain why.
+Recommend some games, can be played by a group of people.
+Make a menu for healthy food.
+Explain human behavior.
+Depending on the phrase the output depends on the line, each line format is (current word -> its headword).
+Use the facts provided, write a question answer.
+To let the couples have the same similarity, write the fourth word.
+Consider the description of the symptoms, identify possible diseases, and recommend some medications.
+Create a birthday plan check list.
+Reply to email, refuse the invitation.
+In your opinion, how will you explain the topic with the relationship of people without background?
+You need to write a creative opening scene a horror film.
+Create a fun mathematical issue for children.
+Considering a number set, find all possible subset to calculate to a number.
+Please give me the recipe below.
+Planning a weekly lunch menu to a school write a main meal, a carbohydrate side meal, a vegetable side meal, and dessert for every day.
+Find the least four perfect numbers.
+Link all entities in the sentence to a Wikipedia page. for each entity, you should exit the Wikipedia page title, or exit no, if you don’t know.
+Are you smarter than most red heads?
+In this function add comments, making the code easier for humans to read.
+Considering the facts, make them a consistent and fascinating story.
+Make a list of meals with soft textiles.
+It is recommended to complete the Python code below.
+Considering the name of a practice, explain how to do this.
+Create an investigation on eating and cooking habits.
+I and my girlfriend split, I feel so sad, can you give me some advice?
+Solve the equation and find the value of X show your steps.
+Write the symbols of the religion offered by the representative.
+Use the comment as a guide, replace the “all” comment in the code with the correct code.
+Let’s talk about the synthesis of this word.
+In paragraphs draw the names of all countries, and list them by commas separate.
+I’m planning a 7-day trip to Seattle, can you give me a detailed plan?
+Create regular expressions based on descriptions.
+Tell me, if the phrase is grammatical, if so, the output is yes, otherwise, correct grammatical errors.
+Find errors in the sentence, and give me the right mistakes.
+Add things to the list.
+To answer the mathematical questions below, you should write the logical steps.
+In the workplace write an example of an immoral behavior, and explain why it is immoral.
+Write a fact-based dialogue.
+Answer the next question.
+There is a form that can describe my situation.
+Divide natural language queries into SQL queries that can be executed on the table.
+In this task, you get a phrase and a word or phrase from a phrase, you need to propose a better word or phrase to replace it, without changing the original meaning.
+Proposed a fast pre-run heating habit, briefly explaining each action.
+Considering a sentence and a number, return a number in a sentence to the position of the corresponding word, each word is white space separate, the position index starts from 1.
+Explain the social type of the next profession.
+Give me a joke about the doctor, try to make a long joke.
+Write some Harry Potter series stories.
+Write a phrase and end with the word “publish”.
+Convert the next measurement.
+Write a story, containing words in four sentences.
+Give me the definition of this word.
+In the html document filling <mask> 字符串, you should consider html tag, your output should be complete html document.
+Summary of the document below, a few points of the ball.
+Write a joke about the bananas.
+Based on the information provided, complete a sentence of the paper summary.
+Write some meaning of food and beverage.
+To replace the <mask> logo in the text with the right word that is consistent with the background, you can use several words for each <mask> logo.
+Find toxic words or sentences in the sentence.
+Create an answer, based on previous chat history.
+Create a correct Python program to meet the following purposes:
+As a newly recruited sports coach, what are your plans for 30 days before work?
+Write the recipe of the ingredients I offer.
+Write a Python function, from big to small class list.
+Is part-time work a good idea for teenagers aged 15 to 19?
+Write cover letter, based on the facts provided.
+Create the title of the paper, provide the description or abstract of its content.
+Create a new ice cream smell.
+Use anti-type to complete the phrase.
+Replace the names of all persons in this verse with “anonymous”.
+Complete the text.
+Write a question list to start the conversation.
+A list of things you do in a city.
+Show the end of the film.
+Read the paragraphs below, answer the mathematical questions about the paragraphs, you need to write the calculations to get the final answer.
+Ask a question and a fun answer as a joke.
+All local names shall be extracted from the paragraphs; different locations shall be separated by half-country.
+In accordance with the provisions, the paragraph is completed.
+Suppose you are doing an interview with Amazon, write the answers to behavioral questions.
+Question: In which year is Yao Ming retired?
+You are awarded a product feature list, you need to create its description.
+Give me a phrase that can be used to express my pleasure.
+Create a monthly budget, one person at that place.
+Check the statement is true or false, based on fact knowledge, it is false, explains why.
+Tell me a father's joke, there are three sentences, each containing at least one punishment.
+Identify prejudice or kind of fixation at a specific time.
+Tell me why natural phenomena occur.
+We have some structured data about a topic writing a text that sounds very smooth, and accurately communicating all information.
+Write the following sentence to be more professional.
+All information should not be changed or deleted, but you can change phrase structure or dictionary.
+Give a detailed description of a method of the brain shaking a paper.
+To dissolve the job offer by sending an e-mail to the recruiters.
+Translate this phrase into any Arabic letter, and say what it is: “Beauty is not yet born.”
+Is there any science that can explain?
+The answer is like me 5.
+Tell me why this joke doesn’t make a joke.
+Give me an example, when you have to use your sense of humor.
+In FEN Notation design a satellite puzzle.
+Give some examples of a country’s national meals.
+Substitute the position holder in this article to the appropriate name entity.
+To solve the mathematical problem, it takes a medium step.
+Convert to 85 F to Celsius.
+How to explain color to a born blind?
+Write an interesting interview question, why do you choose this question?
+Use a positive type to complete a sentence.
+Verify whether there is a gender-based and non-included expression in the sentence; if there is, suggest an alternative; otherwise, the output “this prejudice is not detected”.
+Please give me this person’s address.
+Try to find a creative way, keep motivation during exercise.
+Translate the English phrase into Chinese.
+How do individuals and organizations reduce unconscious prejudices?
+Extend the following articles to the article.
+Return the SSN number.
+Create a detailed budget given assumption travel.
+Analyze the following sentence to determine prejudice.
+Considering a daily item, make up some sounds like a Foxy talk referring to this item.
+Write a comment a mixer raises a safety question, because a sheet is broken.
+Considering two cocktail ingredients, write one with their cocktail recipes, you can add more ingredients.
+Considering a sentence is supposed, convert it into a sentence, hide or introduce uncertainty.
+What can you do to reduce stress?
+Create the continent and population of the following countries, and organize production as a table.
+Write a recommendation letter, according to the student’s achievements.
+To prove your moral integrity, explain how you solve the moral problem.
+What exercises are best to lose weight at home?
+Press the following list.
+What do you think is the quality of an effective sports coach?
+Fill white with a word or phrase.
+邮标签 tags include Adjective, Adverb, Conjunction, Determiner, Noun, Number, Preposition, Pronoun, Verb. 这里 is an example: 约翰喜欢街道的结尾的蓝色房子. 邮标签 result is: 约翰(Noun)喜欢(Verb)的(Determiner)蓝色(Adjective)房子(Noun)在(Preposition)的(Determiner)结尾(Noun)的(Preposition)的(Determiner)街(Noun).
+Solving mathematical word problems and linear algorithmic equations.
+Summarize this email into a single sentence:
+Write a code to get the current value of Bitcoin in the US dollar, using the Bitcoin Graph API.
+Write a program to calculate the whole number from k to n.
+In JavaScript, write a script to print the current date and time.
+Write Python code to solve this problem.
+My flight was cancelled - can I claim a refund from them? according to the law, give me a detailed answer.
+Please allow me to regulate the law of the minimum wage in California.
+Solve the next equation system, give me the final answer.
+Planning a course for a classroom.
+List the following universities.
+These countries are classified according to their population.
+Identify the character labels in the phrase.
+Considering a sentence, to detect whether there is any potential class solid in it, if so, you should explain class solid.
+In this task, you need to compare the meaning of two words and explain whether they are the same.
+Tell you if the phrase contains toxic language.
+Tell me whether the behavior is moral or immoral, the result is “moral” or “ immoral”.
+Considering my personality and work, tell me if I am suitable.
+Determine whether the next example is passive aggressive, resulting at 1 is passive aggressive, resulting at 0 is no.
+Decide whether there is a logical sound.
+Theme candidates include: politics, sport, health, science, business, finance, entertainment.
+Divide the feeling of the phrase into positive, negative or mixed.
+You need to read a code and detect whether there is a synthetic error or not.
+The intention can be one of the following categories: 1) send or cancel orders; 2) transport and delivery; 3) change and return; 4) technical issues and website and application results 1 - 4 each category.
+Tell me, is this phrase actually right? yes or no?
+Answer several of the following choice questions Select A, B, C or D to get the final answer.
+Considering the user query, understand which of the following paragraphs contains the answer to the query.
+Select the oldest person from the list.
+From a set of numbers find one of the greatest, direct output numbers.
+The e-mail below is spam or not.
+Tell me if the email below is a promotional email.
+You can answer “support” or “not support”.
+Forecast whether news has a positive or negative impact on the company’s stock price Results are positive, negative or neutral.
+You provide news articles, you need to identify all categories to which this article belong. possible categories include: music, sport, politics, technology, finance, basketball, football, tennis, entertainment, digital games, world news.
+In paragraphs select the longest sentence, exit the sentence index.
+Depending on the dialogue, whether the user is satisfied with the service, you should respond with "satisfied" or "not satisfied".
+Check if the Reddit band contains hate speech.
+According to certain political points of view, it is classified whether this person belongs to Democrats or Republicans.
+Facts check - tell me if the statement is true, false, or unknown, based on your knowledge and common meaning.

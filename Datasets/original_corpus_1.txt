@@ -1,0 +1,175 @@
+Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories?
+What is the relation between the given pairs?
+Generate a one-sentence description for each of the following people.
+Describe a situation in which the given stereotype can harm you.
+Generate an appropriate subjective title for the following email:
+How do you answer this question in a job interview?
+Brainstorm a list of possible New Year's resolutions.
+Explain the following idiom to me, and try to give me some examples.
+Generate a haiku using the following word:
+Recommend a movie for me to watch during the weekend and explain the reason.
+Suggest some games that can be played by a group of people.
+Make a grocery list for a healthy meal.
+Explain human's behavior.
+Dependency parsing for the sentence. Output the dependencies in lines, with each line formatted as (current word -> its head word).
+Using the facts given, write a question-answer pair.
+To make the pairs have the same analogy, write the fourth word.
+Given a description of the symptom, identify the possible disease and suggest some medicine.
+Create a birthday planning checklist.
+Reply to the email and refuse the invitation politely.
+In your opinion, how would you explain the relation of the given subject to people who do not have a background in the field?
+You need to write a creative opening scene for a horror movie.
+Create a fun math question for children.
+Given a set of numbers, find all possible subsets that sum to a given number.
+Give me a cooking recipe for the following food.
+Plan a weekly lunch menu for a school. Write down a main dish, a carbohydrate side dish, a vegetable side dish, and a dessert for each day.
+Find the four smallest perfect numbers.
+Link all the entities in the sentence (highlighted in brackets) to a Wikipedia page. For each entity, you should output the Wikipedia page title, or output None if you don't know.
+Are you smarter than most redheads?
+Add comments in the given function to make the code more readable for humans.
+Given the facts, compose them into a coherent and fascinating story.
+Make a list of salty snacks with a soft texture.
+Suggest a completion for the following python code.
+Given the name of an exercise, explain how to do it.
+Create a survey that asks about eating and cooking habits.
+I broke up with my girlfriend and I am feeling so sad. Can you give me some suggestions?
+Solving the equation and find the value of X. Show your steps.
+Write the adjectives that represent the given religions.
+Using the comment as a guide, replace the "TODO" comment in the code with the proper code.
+Come up with the synonyms of the word.
+Extract all the country names in the paragraph, and list them separated by commas.
+I am planning a 7-day trip to Seattle. Can you make a detailed plan for me?
+Generate the regular expression based on the description.
+Tell me if the sentence is grammatical. If it is, output yes. Otherwise, correct the grammar errors.
+Find the misspelling in the sentence, and give me the correct spelling.
+Add things to the list.
+Answer the following math problem. You should write down the reasoning steps.
+Write an example of unethical behavior at the workplace and explain why it is unethical.
+Write a conversation based on the given facts.
+Answer the following question.
+Come up with a metaphor that can describe my situation.
+Parse the natural language query into a SQL query that can be executed on the table.
+In this task, you are given a sentence and a word or phrase from the sentence, you need to suggest a better word or phrase to replace it without changing the original meaning.
+Suggest a quick pre-run warmup routine. Explain each move briefly.
+Given a sentence and a number, return the word that correspond to the location of the given number in the sentence, where each word is a white-space separated and the location index starts from 1.
+Explain the social stereotype of the following profession.
+Give me a joke about PhD. Try to make a long joke.
+Write some spells from the Harry Potter series.
+Write a sentence that ends with the word "published".
+Convert the following measurement.
+Write a story that contains the given words in 4 sentences.
+Give me the definition of the word.
+Fill in the <mask> in the html document with a propoer text. You should take the html tag into consideration. You output should be the completed html document.
+Summarize the following document with several bullet points.
+Write a knock knock joke about bananas.
+Make a one-sentence summarization of the paper based on the given information.
+Write some Food and Drink Collocations with their meaning.
+Replace the <mask> token in the text with proper words that are consistent with the context. You can use multiple words for each <mask> token.
+find the toxic word or phrase in the sentence.
+Generate a response given the previous chat history.
+Generate a correct python program to fulfill the following purpose:
+As a newly hired sports coach, what are your plans for the first 30 days on the job?
+Write a recipe for the given ingredients that I have.
+Write a python function that sorts a list from large to small.
+Is working part-time a good idea for teenagers between 15 and 19 years old?
+Write a cover letter based on the given facts.
+Generate a title for the paper given a description or abstract of its content.
+Make up a new flavor of ice cream.
+Use a counterstereotype to complete the given sentence.
+Replace all the human names in the paragraph with <anonymized>.
+Complete the lyrics.
+Write a list of questions to start a conversation.
+Make a list of things to do in the given city.
+Explain the ending of given movie.
+Read the following paragraph and answer a math question about the paragraph. You need to write out the calculation for getting the final answer.
+Come up with a question and a funny answer as a joke.
+Extract all the place names from the paragraph. Different places should be separated by semicolons.
+Complete the paragraph given its prefix.
+Suppose you are interviewing with Amazon, write an answer to the behavioral question.
+Question: in which year did Yao Ming retire? Answer:
+You are given a list of features of a product, and you need to create its description.
+Give me a phrase that I can use to express I am very happy.
+Create a monthly budget for a person in the given location.
+Verify if the claim is true or false based on factual knowledge. It false, explain why.
+Tell me a dad joke that has three sentences, each containing at least a pun.
+Identify the bias or stereotype in the given prompt.
+Explain to me why a natural phenomenon happen.
+We have some structured data about a subject. Write a text that sounds very fluent and accurately conveys all the given information.
+Rewrite the following sentence to be more professional.
+Paraphrase the paragraph. All the information should not be changed or deleted. But you can change the sentence structure or the lexicon.
+Give a detailed description of a method for brainstorming an essay.
+Turn down a job offer by sending an email to a recruiter explaining the reason.
+Translate this sentence into any Arabic dialect and say what dialect it is: “The beautiful ones are not yet born
+Is there anything science can't explain?
+Explain the questions like I am 5.
+Tell me why this joke’s not funny.
+Give me an example of a time when you had to use your sense of humor.
+Design a chess puzzle in FEN Notation.
+Give some examples of national dishes from a given country.
+Replace the placeholders in the given text with appropriate named entities.
+Solve the math problems. Intermediate steps are required.
+Converting 85 F to Celsius.
+How would you explain colors to a person born blind?
+Write a funny interview question. Why did you choose this question?
+Use a positive stereotype to complete the sentence.
+Detect if there is gender-biased and non-inclusive phrasing in the sentence. If there is, suggest an alternative. Otherwise, output "No such bias detected."
+Give me the address of this person.
+Try coming up with a creative way to stay motivated during a workout.
+Translate the English sentence into Chinese.
+How can individuals and organizations reduce unconscious bias?
+Expand the following outline into an article.
+Return the SSN number for the person.
+Create a detailed budget for the given hypothetical trip.
+Analyze the sentences below to identify biases.
+Given an everyday item, make up something that sounds like a folksy proverb mentioning that item.
+Write a review for a blender presents a safety issue because a blade broke off.
+Given two cocktail ingredients, write a recipe for a cocktail that uses them.  You may add more ingredients.
+Given a sentence that is assertive, convert it to a sentence that hedges or introduces uncertainty.
+What are some things you can do to de-stress?
+Generate the continent and population of the following countries, and organize the output as a table. Each row of the table corresponds to one country.
+Write a recommendation letter given the student's achievement.
+In order to demonstrate your ethical integrity, explain how you would resolve an ethical dilemma.
+Which exercises are best for reducing belly fat at home?
+Sort the given list ascendingly.
+In your opinion, what are the qualities of an effective sports coach?
+Fill in the blank with a word or phrase.
+Given a sentence, output the pos tags of all the words. Pos tag labels include Adjective, Adverb, Conjunction, Determiner, Noun, Number, Preposition, Pronoun, Verb.  Here is an example: John likes the blue house at the end of the street. The pos tagging result is: John (Noun) likes (Verb) the (Determiner) blue (Adjective) house (Noun) at (Preposition) the (Determiner) end (Noun) of (Preposition) the (Determiner) street (Noun).
+Solving the math word problem with linear algebra equations.
+Summarize this email into a single sentence:
+write a code to get the current value of a Bitcoin in US dollars using the bitcoincharts API.
+Write a program to compute the sum of integers from k to n.
+Write a script in JavaScript for printing the current date and time.
+Write Python code to solve this leetcode problem.
+My flight is canceled - can I sue them for a refund? Give me a detailed answer according to the law.
+Give me the laws that regulate the minimum wage for California, US.
+Solve the following equation system. Give me the final answer.
+Plan a syllabus for the the class.
+Rank the following universities.
+Rank these countries by their population.
+Identify the pos tag of the word in the given sentence.
+Given a sentence, detect if there is any potential stereotype in it. If so, you should explain the stereotype. Else, output no.
+In this task, you need to compare the meaning of the two sentences and tell if they are the same. Output yes or no.
+Tell if the sentence contains toxic language.
+Tell me whether the behavior is ethical or not. Output "ethical" or "not ethical".
+Given my personality and the job, tell me if I would be suitable.
+Identify if the following instance is passive-aggressive or not. Output 1 for passive-aggressive, and 0 for not.
+Decide whether the syllogism is logically sound.
+Choose a topic for the following article. Topic candidates include: politics, sports, health, science, business, finance, and entertainment.
+Classify the sentiment of the sentence into positive, negative or mixed.
+You need to read a code and detect if there is a syntax error or not. Outpus true if there is error, output false if there is not.
+Predict the intent of the user given the utterance. Intent can be one of the following categories: 1) making or cancelling orders; 2) shipping & delivery; 3) change and return; 4) technical Issue with the website and app. Output 1 - 4 for each category.
+Tell me if the sentence is factually correct. Yes or no?
+Answer the following multiple choice question. Select A, B, C, or D for the final answer.
+Given a user query, find out which of the following passages contains the answer to the query. Output the passage index.
+Select the oldest person from the list.
+Find out the largest one from a set of numbers. Output the number directly.
+Classify whether the following email is a spam or not. Output true or false.
+Tell me if the following email is a promotion email.
+Does the information in the document supports the claim? You can answer "Support" or "Unsupport".
+Predict whether the news has positive impact or negative impact on the company stock price. Output positive, negative or neutral.
+You are provided with a news article, and you need to identify all the categories that this article belongs to. Possible categories include: Music, Sports, Politics, Tech, Finance, Basketball, Soccer, Tennis, Entertainment, Digital Game, World News. Output its categories one by one, seperated by comma.
+Select the longest sentence in terms of the number of words in the paragraph, output the sentence index.
+Given a dialogue, classify whether the user is satisfied with the service. You should respond with "Satisfied" or "Unsatisfied".
+Detect if the Reddit thread contains hate speech.
+Given some political opinions, classify whether the person belongs to Democrats or Republicans.
+Fact checking - tell me if the statement is true, false, or unknown, based on your knowledge and common sense.
